@@ -1,0 +1,28 @@
+body {
+    background-color: rgba(114, 114, 114, 0.619);
+    overflow: hidden;
+}
+
+.bodygif {
+    background-color: rgba(76, 175, 79, 0);
+}
+
+button {
+    margin-top: 3rem;
+    background: rgb(253,29,29);
+    background: linear-gradient(25deg, rgba(253,29,29,1) 8%, rgba(252,176,69,1) 89%);
+    border: solid rgba(253, 253, 253, 0);
+    color: black;
+    width: 5rem;
+}
+
+button:hover {
+    background-color: red;
+    color: white;
+}
+
+.masterdiv {
+    display: flex;
+    flex-direction: column;
+}
+
